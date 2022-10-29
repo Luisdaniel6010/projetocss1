@@ -1,0 +1,206 @@
+body{
+    background-color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 0px; 
+}
+
+.titulo{
+    letter-spacing: 0px; 
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header{
+background-color: darkgrey;
+height: 70px;
+border-radius: 5px;
+font-weight: 600;
+border: solid 2px rgb(33, 220, 245);    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(7, 97, 109);
+
+    
+}
+ 
+nav li{
+    display: inline;
+    position: relative;
+    letter-spacing: 0,5px;
+    margin: 0 0 0 15px;
+    top: 30px;
+    left: 60%; 
+}
+
+a:hover {
+    color: #fff;
+}
+.avatar {
+  border-radius: 50%; 
+  position: absolute;
+  border: solid 2px  rgb(33, 220, 245) ;
+  left: 30%;
+  top: 22px;
+}
+.avatar2 {
+    border-radius: 50%; 
+    position: relative;
+    left: 30%;
+    top: 22px;
+    border: solid 2px rgb(33, 220, 245);
+  }
+
+  .avatar2 {
+    border-radius: 50%; 
+    position: relative;
+    left: 30%;
+    top: 28px;
+    border: solid 2px rgb(33, 220, 245);
+
+  }
+
+  .avatar3 {
+        border-radius: 50%; 
+        position: relative;
+        left: 29%;
+        top: -10px;
+        border: solid 2px rgb(33, 220, 245);
+
+        }
+
+
+   .avatar4 {
+            border-radius: 50%; 
+            position: relative;
+            left: 36%;
+            top: -47px;
+            border: solid 2px rgb(33, 220, 245);
+        }
+
+   .avatar5 {
+            border-radius: 50%; 
+            position: relative;
+            left: 42%;
+            top: -149px;
+            border: solid 2px rgb(33, 220, 245);    
+   }        
+
+  .sobre1{
+    width: 600px;
+    height: 400;
+    position: relative;
+    left: 35%;
+    top: -110px;
+  
+  }
+
+  .unica{
+    text-align:justify;
+    letter-spacing: 1px; 
+  }
+  .unica1{
+    text-align:justify;
+    letter-spacing: 1px; 
+  }
+
+  .formacao {
+    background-color: darkgrey;
+    height: 380px;
+    border-radius: 5px;
+    font-weight: 500;
+    position: relative;
+    top: 0px;
+    line-height: 20px;
+    border: solid 2px rgb(33, 220, 245);    
+    }
+
+    .experience{
+    background-color: #fff;
+    width: auto;
+    height: 400px;
+    border-radius: 5px;
+    font-weight: 500;
+    top: 0px;
+    line-height: 18px;
+    border: solid 2px rgb(33, 220, 245); 
+    }
+
+    .card1 {
+      
+        background-color: darkgrey;
+        width: auto;
+        height: 700;
+        position: relative;
+        left: 0%;
+        top: 0px;
+        border-radius: 5px;
+        border: solid 2px rgb(33, 220, 245); 
+    }
+    .card__imagen {
+
+        position: relative;
+        top: 0px;
+        left: 15px;
+
+    }
+    .hcard {
+        position: relative;
+        left: 15px;
+     
+    }
+    .card__text {
+        position: relative;
+        left: 15px;
+     
+    }
+    .card__text1 {
+        position: relative;
+        left: 15px;
+    }
+
+    .repositorio {
+        position: relative;
+        left: 15px;
+        background-color: rgb(33, 220, 245);
+        border-radius: 5px;
+        color: rgb(7, 97, 109);
+    }
+    .repositorio:hover {
+        color: #fff;
+    }
+
+
+    .card2 {
+
+        background-color: #fff;
+        width: auto;
+        height: 700;
+        position: relative;
+        left: 0%;
+        top: 0px;
+        border-radius: 5px;
+        border: solid 2px rgb(33, 220, 245); 
+}
+    .card__imagenf {
+
+        position: relative;
+        top:-10px;
+        left: 30px;
+     
+    }
+
+    .card__info {
+        position: relative;
+        left: 250px;
+        top: -50px;
+
+    }
+    .ch {
+        position: relative;
+        left: 15px;
+        top: -10px;
+
+    }
